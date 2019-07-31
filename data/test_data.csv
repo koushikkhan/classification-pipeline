@@ -1,0 +1,8 @@
+labels,description,component
+Citrix Issue,To start CARA agents,None
+Socket Timeout,auslslnxsd6105 : NRPE: Command timed out after 60 seconds\\n,None
+High CPU Utilization,AUSLSLNXSP0226.RAD.WBCAU.WESTPAC.COM.AU status is changed to MINOR: auslslnxsp0226 : CRITICAL - load,None
+Memory Usage,auslslnxsd5839 : RAM WARNING: 19% ram free (14842/16044 MB used)\\n,RAM
+Memory Usage,auslslnxsd5874 : RAM WARNING: 19% ram free (15328/16044 MB used)\\n,RAM
+High CPU Utilization,AUSLSLNXSP0250.RAD.WBCAU.WESTPAC.COM.AU status is changed to MINOR: auslslnxsp0250 : CRITICAL - load,None
+Port not responding,auslslnxsd2764 : PORT 5666 CRITICAL: 10.42.130.198/5666 is not responding,PORT

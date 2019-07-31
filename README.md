@@ -1,2 +1,2 @@
-# classification-pipeline
-A Python based model building pipeline  
+# ClassificationPipeline
+A feature extraction and model building pipeline for text classification.

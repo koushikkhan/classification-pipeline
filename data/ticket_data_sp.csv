@@ -1,0 +1,59 @@
+﻿ticketcategory,component,description,status,symptoms,internalpriority
+Socket Timeout,None,auslswinsd2315 : CRITICAL - Socket timeout after 10 seconds\\n,CLOSED,None,4
+Other Issue,None,[MNC]software:saba,CLOSED,None,4
+High CPU Utilization,None,AUSLSLNXSP0236.RAD.WBCAU.WESTPAC.COM.AU status is changed to MINOR: auslslnxsp0236 : CRITICAL - load,CLOSED,None,4
+Backup Failed,None,iotapbat01 CRITICAL - (164 errors in check_logfiles.protocol-2018-03-22-18-45-16) - Thu Mar 22 18:44:05 JST 2018 ERROR older than 15min:-rw-r--r-- 1 1100 1100 146848  3Ã¦ÂœÂˆ 22 18:24 /shared/data/trip/mm/ready/carprobe+1+20180322T092441745Z+p6NWiwvdyvRE+vdyvRE2018 164 errors in check_logfiles.protocol,CLOSED,05 JST 2018 ERROR older than 15min,2
+Memory Usage,RAM,"ram""	auslslnxsd5838 : RAM WARNING: 19% ram free (15355/16044 MB used)		",CLOSED,RAM WARNING,4
+Memory Usage,RAM,"ram""	auslslnxsd5598 : RAM WARNING: 19% ram free (14768/16044 MB used)",CLOSED,RAM WARNING,4
+Backup Failed,None,pgwapl02 CRITICAL - (1 errors in check_logfiles.protocol-2018-03-23-10-28-07) - 2018-03-23 10:10:26.496 JST 1f1a1 com.ibm.cis.aif.obclient.rest.RestClient#request AIFOB090 50   E [REQ_PGWAPL02_pgwserver2_20180316184821_000000115782] OutboundÃ¨Â¦ÂÃ¦Â±Â‚Ã£Â‚Â’Ã¥Â‡,CLOSED,1 errors in check_logfiles.protocol,2
+Network connectivity,None,AUSLSLNXSP0226.RAD.WBCAU.WESTPAC.COM.AU status is changed to WARNING: auslslnxsp0226 : WARNING - loa,CLOSED,WARNING,4
+Host Unreachable,None,"syd3svch04p CRITICAL - 10.138.21.123: Host unreachable @ 10.138.21.66. rta nan  lost 100%""	",CLOSED,"lost 100%	",1
+Port not responding,PORT,auslslnxsd2764 : PORT 5666 CRITICAL: 10.42.130.198/5666 is not responding,CLOSED,None,4
+High CPU Utilization,None,AUSLSLNXSP0272.RAD.WBCAU.WESTPAC.COM.AU status is changed to MINOR: auslslnxsp0272 : CRITICAL - load,CLOSED,None,4
+Port not responding,PORT,auslslnxsd2407 : PORT 5666 CRITICAL: 10.42.131.228/5666 is not responding,CLOSED,None,4
+Port not responding,PORT,auslslnxsd1139 : PORT 5666 CRITICAL: 10.42.131.97/5666 is not responding,CLOSED,None,4
+Error connecting to Server: Connection refused,PORT,auslswinsp0268 : connect to address 10.41.131.140 and port 12489: Connection refused\\ncould not fet,CLOSED,None,4
+Port not responding,PORT,sdcocbostes01 PORT 12489 CRITICAL: 10.217.53.5/12489 is not responding,CLOSED,None,2
+Memory Usage,None,scsydpapp04 Memory usage: total:37368.47 MB - used: 33138.73 MB (89%) - free: 4229.74 MB (11%),CLOSED,None,3
+High CPU Utilization,None,auslswinsd1701 : CPU Load 100% (15 min average),CLOSED,None,4
+Backup Failed,None,pgwapl01 CRITICAL - (4 errors in check_logfiles.protocol-2018-03-22-19-01-39) - 2018-03-22 19:01:02.402 JST a05265 com.ibm.cis.aif.application.dispatcher.AIFApplicationDispatcher#getInboundReqObj AIFCW900 50   E [REQ_PGWAPL01_pgwserver1_20180316184703_00000000156,CLOSED,4 errors in check_logfiles.protocol,2
+Memory Usage,None,auslswinsd1548 : Memory usage: total:8191.41 MB - used: 7380.69 MB (90%) - free: 810.72 MB (10%),CLOSED,None,4
+Host Unreachable,None,sdcocbostes01 CRITICAL: Host 10.217.53.5 is unreachable after 50 seconds,CLOSED,None,1
+High CPU Utilization,None,scsydpapp03 CPU Load 93% (15 min average),CLOSED,None,3
+Socket Timeout,None,auslslnxsd3881 : NRPE: Command timed out after 60 seconds\\n,CLOSED,Command timed out after 60 seconds\\n,4
+Port not responding,PORT,auslswinsp0071 : PORT 5666 CRITICAL: 10.41.138.11/5666 is not responding,CLOSED,None,4
+High CPU Utilization,None,auslswinsd1400 : CPU Load 100% (15 min average),CLOSED,None,4
+Other Issue,None,auslswinsp0073 : PING CRITICAL - Packet loss = 100%,CLOSED,None,4
+Network connectivity,None,AUSLSLNXSP0250.RAD.WBCAU.WESTPAC.COM.AU status is changed to WARNING: auslslnxsp0250 : WARNING - loa,CLOSED,WARNING,4
+Backup Failed,None,dwn-sqtint02p CRITICAL - (32 errors in config_DB_IPSDEV_Critical_pattern.protocol-2018-03-17-07-00-58) - ORA-06512: at line 4 ...,CLOSED,32 errors in config_DB_IPSDEV_Critical_pattern.protocol,2
+High CPU Utilization,None,auslswinsd1548 : CPU Load 98% (15 min average),CLOSED,None,4
+Backup Failed,None,iotapbat01 CRITICAL - (101 errors in check_logfiles.protocol-2018-03-22-18-31-08) - Thu Mar 22 18:19:07 JST 2018 ERROR older than 15min:-rw-r--r-- 1 1100 1100 356272  3Ã¦ÂœÂˆ 22 17:59 /shared/data/trip/mm/ready/carprobe+1+20180322T085955521Z+lP0s1flaXkLw+laXkLw2018,CLOSED,101 errors in check_logfiles.protocol,1
+Port not responding,PORT,auslslnxsd2913 : PORT 5666 CRITICAL: 10.42.131.89/5666 is not responding,CLOSED,None,4
+Memory Usage,None,scsydpapp04 Memory usage: total:37512.82 MB - used: 33203.31 MB (89%) - free: 4309.51 MB (11%),CLOSED,None,3
+Memory Usage,RAM,auslslnxsd5601 : RAM WARNING: 19% ram free (14657/16044 MB used)\\n,CLOSED,RAM WARNING,4
+Memory Usage,None,scsydpapp04 Memory usage: total:37512.82 MB - used: 33203.31 MB (89%) - free: 4309.51 MB (11%),CLOSED,None,3
+Network connectivity,None,AUSLSLNXSP0251.RAD.WBCAU.WESTPAC.COM.AU status is changed to WARNING: auslslnxsp0251 : WARNING - loa,CLOSED,WARNING,4
+Backup Failed,None,dwn-sqtint02p CRITICAL - (23 errors in config_DB_FMSSSIT_Critical_pattern.protocol-2018-03-17-06-51-36) - ORA-06512: at line 2 ...,CLOSED,23 errors in config_DB_FMSSSIT_Critical_pattern.protocol,2
+RTA nan,None,"iotatapp01 CRITICAL - 172.21.1.70: rta nan  lost 100%""",CLOSED," lost 100%""",1
+Port not responding,PORT,auslswinsp0064 : PORT 12489 CRITICAL: 10.41.132.70/12489 is not responding,CLOSED,None,4
+Socket Timeout,None,auslswinsp0064 : CRITICAL - Socket timeout after 10 seconds\\n,CLOSED,None,4
+High CPU Utilization,None,auslswinsd1740 : CPU Load 99% (15 min average),CLOSED,None,4
+Port not responding,PORT,pgwapl02 PORT 22 CRITICAL: 172.21.4.24/22 is not responding,CLOSED,None,2
+High CPU Utilization,None,auslswinsd1564 : CPU Load 94% (15 min average),CLOSED,None,4
+Memory Usage,None,scsydpapp04 Memory usage: total:32767.83 MB - used: 27953.80 MB (85%) - free: 4814.03 MB (15%),CLOSED,None,3
+Port not responding,PORT,auslslnxsd2764 : PORT 5666 CRITICAL: 10.42.130.198/5666 is not responding,CLOSED,None,4
+High CPU Utilization,None,dwn-sqtbm02p WARNING - load average: 19.58,CLOSED,RAM WARNING,4
+Error connecting to Server: Connection refused,PORT,auslswinsp0064 : connect to address 10.41.132.70 and port 12489: Connection refused\\ncould not fetc,CLOSED,None,4
+High CPU Utilization,None,AUSLSLNXSP0250.RAD.WBCAU.WESTPAC.COM.AU status is changed to MINOR: auslslnxsp0250 : CRITICAL - load,CLOSED,None,4
+High CPU Utilization,None,auslswinsd1548 : CPU Load 99% (15 min average),CLOSED,None,4
+RTA nan,None,"connect01 CRITICAL - 192.168.100.11: rta nan  lost 100%""",CLOSED," lost 100%""",1
+Memory Usage,None,scsydpapp04 Memory usage: total:40905.24 MB - used: 39140.56 MB (96%) - free: 1764.68 MB (4%),CLOSED,None,2
+Port not responding,PORT,auslswinsp0064 : PORT 5666 CRITICAL: 10.41.132.70/5666 is not responding,CLOSED,None,4
+Socket Timeout,None,auslswinsp0240 : CRITICAL - Socket timeout after 10 seconds\\n,CLOSED,None,4
+High CPU Utilization,None,auslswinsd1530 : CPU Load 98% (15 min average),CLOSED,None,4
+High CPU Utilization,None,auslswinsd1505 : CPU Load 96% (15 min average),CLOSED,None,4
+Other Issue,None,pgwapl01 CRITICAL - (10 errors in check_logfiles.protocol-2018-03-15-20-25-52) - 2018-03-15 20:25:44.241 JST 147 com.ibm.cis.aif.obclient.rest.RestClient#request AIFOB090 50   E [ASN_00000035_pgwserver1_20180315202543418] OutboundÃ¨Â¦ÂÃ¦Â±Â‚Ã£Â‚Â’Ã¥Â‡Â¦Ã§ÂÂ†Ã£,CLOSED,10 errors in check_logfiles.protocol,2
+RTA nan,None,"iotapana01 CRITICAL - 172.21.1.69: rta nan  lost 100%""",CLOSED," lost 100%""",1
+Socket Timeout,None,auslswinsp0071 : CRITICAL - Socket timeout after 10 seconds\\n,CLOSED,None,4
+File Permission Issue,DISK,auslslnxsd5536 : DISK CRITICAL - /wdp/var/docker/devicemapper/mnt/4accae6ff840f78858a5a2bd110abb065b,,,
+Disk Space,DISK,auslslnxsd3110 : DISK WARNING - free space: /opt/sw/CA 715 MB (7% inode=96%):,,,
